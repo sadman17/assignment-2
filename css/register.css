@@ -1,0 +1,64 @@
+*{
+	margin: 0; 
+}
+ body{
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	background: url(../img/16083767_ml.jpg);
+	background-size: cover;
+}
+.container{
+	width: 600px;
+	margin: 0 auto;
+}
+.register-here{
+ 	background-color: #485853b5;
+ 	padding: 20px;
+ 	margin: 15%;
+ 	border-radius: 20px;
+}
+.register-here img{
+	width: 170px;
+	height: 170px;
+	display: block;
+	margin: 0 auto;
+}
+.mobile{
+	margin: 5px 20px;
+	width: 328px;
+	border-radius: 7px;
+}	
+.First-name{
+	border-radius: 7px;
+	margin: 5px;
+}
+.Last-name{
+	border-radius: 7px;
+	margin: 5px;
+}
+
+.Birth-date{
+	width: 300px;
+	margin: 5px 30px;
+	border-radius: 7px;
+}
+.New-password{
+	width: 290px;
+	margin:5px 34px;
+	border-radius: 7px;
+}
+.register-btn{
+	background-color: #eaecec;
+	padding: 5px;
+	font-size: 17px;
+	border: 1px solid #eaecec;
+	display: block;
+	margin: 5px 145px;
+	transition: 0.7s;
+}
+.register-btn:hover{
+	cursor: pointer;
+	background-color: #231f20cc;
+}
+.radio23{
+	margin: 5px 30px;
+}
